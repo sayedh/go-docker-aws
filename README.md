@@ -1,4 +1,4 @@
-# Simple Go/Docker/AWS project
+# Simple Go-Docker-AWS project
 This a simple Go project, dockerized with Docker, and deployed to AWS
 
 ## Technologies Used
